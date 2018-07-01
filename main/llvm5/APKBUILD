@@ -3,7 +3,7 @@
 # Contributor: Jakub Jirutka <jakub@jirutka.cz>
 # Maintainer: Jakub Jirutka <jakub@jirutka.cz>
 _pkgname=llvm
-pkgver=5.0.1
+pkgver=5.0.2
 _majorver=${pkgver%%.*}
 pkgname=$_pkgname$_majorver
 pkgrel=4
